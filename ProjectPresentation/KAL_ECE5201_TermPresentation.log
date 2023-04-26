@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.3.26)  26 APR 2023 11:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.3.26)  26 APR 2023 11:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/Skoge/Documents/ECE5201/SemesterProject/ProjectPresentation2/KAL_ECE5201_TermPresentation.tex
-(c:/Users/Skoge/Documents/ECE5201/SemesterProject/ProjectPresentation2/KAL_ECE5201_TermPresentation.tex
+**c:/Users/Skoge/Documents/ECE5201_GithubUpload/ProjectPresentation/KAL_ECE5201_TermPresentation.tex
+(c:/Users/Skoge/Documents/ECE5201_GithubUpload/ProjectPresentation/KAL_ECE5201_TermPresentation.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22> (c:/texlive/2023/texmf-dist/tex/latex/beamer/beamer.cls
 Document Class: beamer 2023/02/20 v3.69 A class for typesetting presentations
@@ -1496,6 +1496,12 @@ Overfull \hbox (2.96399pt too wide) has occurred while \output is active
 [31
 
  <./figs/Birefringence.png (PNG copy)>] (./KAL_ECE5201_TermPresentation.bbl)
+<figs/Github.png, id=489, 1026.83624pt x 1026.83624pt>
+File: figs/Github.png Graphic file (type png)
+<use figs/Github.png>
+Package pdftex.def Info: figs/Github.png  used on input line 611.
+(pdftex.def)             Requested size: 85.15335pt x 85.1412pt.
+
 Overfull \hbox (45.52718pt too wide) has occurred while \output is active
  [] 
  []
@@ -1507,19 +1513,19 @@ Overfull \hbox (2.96399pt too wide) has occurred while \output is active
 
 [32
 
- <c:/texlive/2023/texmf-dist/tex/latex/beamer/beamericonarticle.pdf>]
+ <c:/texlive/2023/texmf-dist/tex/latex/beamer/beamericonarticle.pdf> <./figs/Github.png>]
 Overfull \hbox (45.52718pt too wide) has occurred while \output is active
  [] 
  []
 
 LaTeX Font Info:    Font shape `T1/Roboto-LF/m/n' aliased to
-(Font)              `T1/Roboto-LF/regular/n' on input line 608.
+(Font)              `T1/Roboto-LF/regular/n' on input line 618.
 LaTeX Font Info:    Font shape `T1/Roboto-LF/regular/n' will be
-(Font)              scaled to size 24.88pt on input line 608.
+(Font)              scaled to size 24.88pt on input line 618.
 LaTeX Font Info:    Font shape `T1/Roboto-LF/b/n' aliased to
-(Font)              `T1/Roboto-LF/bold/n' on input line 608.
+(Font)              `T1/Roboto-LF/bold/n' on input line 618.
 LaTeX Font Info:    Font shape `T1/Roboto-LF/bold/n' will be
-(Font)              scaled to size 24.88pt on input line 608.
+(Font)              scaled to size 24.88pt on input line 618.
 
 Overfull \hbox (2.96399pt too wide) has occurred while \output is active
 [][][][] 
@@ -1542,18 +1548,18 @@ Package rerunfilecheck Info: File `KAL_ECE5201_TermPresentation.out' has not cha
 (rerunfilecheck)             Checksum: F3A0F67970F0AC9E6DDB1501CFC6CD45;1836.
  ) 
 Here is how much of TeX's memory you used:
- 45916 strings out of 476025
- 1041502 string characters out of 5794009
+ 45923 strings out of 476025
+ 1041621 string characters out of 5794009
  1866382 words of memory out of 5000000
- 65522 multiletter control sequences out of 15000+600000
+ 65528 multiletter control sequences out of 15000+600000
  645154 words of font info for 150 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,19n,122p,500b,1119s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 128i,19n,122p,496b,1119s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2023/texmf-dist/fonts/type1/google/roboto/Roboto-Bold.pfb><c:/texlive/2023/texmf-dist/fonts/type1/google/roboto/Roboto-Italic.pfb><c:/texlive/2023/texmf-dist/fonts/type1/google/roboto/Roboto-Regular.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm7.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/rsfs/rsfs10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sftt0800.pfb>
-Output written on KAL_ECE5201_TermPresentation.pdf (33 pages, 7509605 bytes).
+Output written on KAL_ECE5201_TermPresentation.pdf (33 pages, 7526929 bytes).
 PDF statistics:
- 640 PDF objects out of 1000 (max. 8388607)
+ 642 PDF objects out of 1000 (max. 8388607)
  501 compressed objects within 6 object streams
  110 named destinations out of 1000 (max. 500000)
- 220 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 225 words of extra memory for PDF output out of 10000 (max. 10000000)
 

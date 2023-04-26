@@ -1,8 +1,8 @@
-PWD c:/Users/Skoge/Documents/ECE5201/SemesterProject/ProjectPresentation2
+PWD c:/Users/Skoge/Documents/ECE5201_GithubUpload/ProjectPresentation
 INPUT c:/texlive/2023/texmf.cnf
 INPUT c:/texlive/2023/texmf-dist/web2c/texmf.cnf
 INPUT c:/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT c:/Users/Skoge/Documents/ECE5201/SemesterProject/ProjectPresentation2/KAL_ECE5201_TermPresentation.tex
+INPUT c:/Users/Skoge/Documents/ECE5201_GithubUpload/ProjectPresentation/KAL_ECE5201_TermPresentation.tex
 OUTPUT KAL_ECE5201_TermPresentation.log
 INPUT c:/texlive/2023/texmf-dist/tex/latex/beamer/beamer.cls
 INPUT c:/texlive/2023/texmf-dist/tex/latex/beamer/beamer.cls
@@ -1985,6 +1985,11 @@ INPUT ./KAL_ECE5201_TermPresentation.bbl
 INPUT KAL_ECE5201_TermPresentation.bbl
 INPUT ./KAL_ECE5201_TermPresentation.bbl
 INPUT KAL_ECE5201_TermPresentation.bbl
+INPUT ./figs/Github.png
+INPUT ./figs/Github.png
+INPUT figs/Github.png
+INPUT ./figs/Github.png
+INPUT ./figs/Github.png
 INPUT c:/texlive/2023/texmf-dist/fonts/vf/google/roboto/Roboto-Regular-lf-t1.vf
 INPUT c:/texlive/2023/texmf-dist/fonts/tfm/google/roboto/Roboto-Regular-lf-t1--base.tfm
 INPUT c:/texlive/2023/texmf-dist/fonts/tfm/google/roboto/Roboto-Regular-lf-t1.tfm

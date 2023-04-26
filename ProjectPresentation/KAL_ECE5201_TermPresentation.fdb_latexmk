@@ -1,21 +1,21 @@
 # Fdb version 4
-["bibtex KAL_ECE5201_TermPresentation"] 1682522838 "KAL_ECE5201_TermPresentation.aux" "KAL_ECE5201_TermPresentation.bbl" "KAL_ECE5201_TermPresentation" 1682522957 0
+["bibtex KAL_ECE5201_TermPresentation"] 1682524053 "KAL_ECE5201_TermPresentation.aux" "KAL_ECE5201_TermPresentation.bbl" "KAL_ECE5201_TermPresentation" 1682524159 0
   "./ECE5201_Citations.bib" 1682520518 9817 6d7755d759f7fe9ed1903210a0b5a440 ""
   "./opticajnl.bst" 1681329336 27799 16e93c66d939458e8a057b275ba7f7e0 ""
-  "KAL_ECE5201_TermPresentation.aux" 1682522956 12159 9a89ae0024d46dec264f9722dfc35c86 "pdflatex"
+  "KAL_ECE5201_TermPresentation.aux" 1682524158 12159 9a89ae0024d46dec264f9722dfc35c86 "pdflatex"
   (generated)
   "KAL_ECE5201_TermPresentation.bbl"
   "KAL_ECE5201_TermPresentation.blg"
   (rewritten before read)
-["pdflatex"] 1682522953 "c:/Users/Skoge/Documents/ECE5201/SemesterProject/ProjectPresentation2/KAL_ECE5201_TermPresentation.tex" "KAL_ECE5201_TermPresentation.pdf" "KAL_ECE5201_TermPresentation" 1682522957 0
-  "KAL_ECE5201_TermPresentation.aux" 1682522956 12159 9a89ae0024d46dec264f9722dfc35c86 "pdflatex"
-  "KAL_ECE5201_TermPresentation.bbl" 1682522838 1188 36951bcf8e12ee43d0967204c2d2ead2 "bibtex KAL_ECE5201_TermPresentation"
-  "KAL_ECE5201_TermPresentation.nav" 1682522956 3847 5e14d623292a3b87628a0e120a25d261 "pdflatex"
-  "KAL_ECE5201_TermPresentation.out" 1682522956 1836 f3a0f67970f0ac9e6ddb1501cfc6cd45 "pdflatex"
-  "KAL_ECE5201_TermPresentation.tex" 1682522953 23577 98b7f143bad3495ff46371c45ac2e536 ""
-  "KAL_ECE5201_TermPresentation.toc" 1682522956 785 9f4c7993b2fc5a14ed7a97e13010625e "pdflatex"
+["pdflatex"] 1682524156 "c:/Users/Skoge/Documents/ECE5201_GithubUpload/ProjectPresentation/KAL_ECE5201_TermPresentation.tex" "KAL_ECE5201_TermPresentation.pdf" "KAL_ECE5201_TermPresentation" 1682524159 0
+  "KAL_ECE5201_TermPresentation.aux" 1682524158 12159 9a89ae0024d46dec264f9722dfc35c86 "pdflatex"
+  "KAL_ECE5201_TermPresentation.bbl" 1682524053 1188 36951bcf8e12ee43d0967204c2d2ead2 "bibtex KAL_ECE5201_TermPresentation"
+  "KAL_ECE5201_TermPresentation.nav" 1682524158 3847 5e14d623292a3b87628a0e120a25d261 "pdflatex"
+  "KAL_ECE5201_TermPresentation.out" 1682524158 1836 f3a0f67970f0ac9e6ddb1501cfc6cd45 "pdflatex"
+  "KAL_ECE5201_TermPresentation.tex" 1682524155 23926 46b8c0b0902110049b3696540f5e195b ""
+  "KAL_ECE5201_TermPresentation.toc" 1682524158 785 9f4c7993b2fc5a14ed7a97e13010625e "pdflatex"
   "beamerthemeUConn.sty" 1681329336 9893 a0fd6844c1ae77fbc6c3829d2eb72c94 ""
-  "c:/Users/Skoge/Documents/ECE5201/SemesterProject/ProjectPresentation2/KAL_ECE5201_TermPresentation.tex" 1682522953 23577 98b7f143bad3495ff46371c45ac2e536 ""
+  "c:/Users/Skoge/Documents/ECE5201_GithubUpload/ProjectPresentation/KAL_ECE5201_TermPresentation.tex" 1682524155 23926 46b8c0b0902110049b3696540f5e195b ""
   "c:/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1679863951 2971 def0b6c1f0b107b3b936def894055589 ""
   "c:/texlive/2023/texmf-dist/fonts/enc/dvips/roboto/rbto_b5rac7.enc" 1679884984 3075 0696ceafc85b8352a913efb9ba64bc17 ""
   "c:/texlive/2023/texmf-dist/fonts/enc/dvips/roboto/rbto_ocbbsb.enc" 1679884984 3314 42351250ac95a91f488e14b5633f75ce ""
@@ -323,6 +323,7 @@
   "figs/Birefringence.png" 1681852539 151491 d505a96b4fd60c515307560ca0da63bd ""
   "figs/EfieldInHWP4.png" 1681854065 1709026 e3b815c730924000dd1e8db035813e0e ""
   "figs/EfieldInQWP3.png" 1681859230 1024645 7a6034ac177666af6067d6ebd7c055a9 ""
+  "figs/Github.png" 1682523587 46686 c32c2504fbcd120099765d3603a00be6 ""
   "figs/HWP.PNG" 1681584738 35081 d2298183b11075796df0aaf072ff2c8d ""
   "figs/Waveplate.jpg" 1682520466 147173 6d3406b0cdb387554b0e088b616046f2 ""
   "jabbrv-ltwa-all.ldf" 1681329336 68876 ed126cdbca28ab86c2c0668453444e21 ""
