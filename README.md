@@ -50,7 +50,8 @@ The University of Connecticut's student code
 is not permitted under this license.
 
 No user is permitted to represent the Research Content
-contained in this repository as their own.
+contained in this repository as their own. Furthermore, the Research Content
+in this report is not permitted to be sold or distributed. 
 
 Sections of the Code that come from the Optica Publishing Group
 remain the intellectual property of Optica Publishing Group.
