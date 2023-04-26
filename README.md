@@ -23,7 +23,7 @@ Copyright 2023 Kevin Lindstrom
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of 
 this software and associated documentation files (the "Software"), to deal in 
-the Software with restrictions. Users of the Software are grated the rights to
+the Software with restrictions. Users of the Software are granted the rights to
 use, modify, merge, publish, distribute, sublicense, and/or sell copies 
 of the Software, and to permit persons to whom the Software is furnished to do 
 so, subject to the following conditions:
