@@ -15,6 +15,10 @@ willingness to provide their hard work to the public. Documentation for how
 to use the Latex code contained in this repository can be found in the 
 UFGTeX-Presentation github repository.
 
+The Bibtex source files and journal template are for the style of Optica 
+Publishing Group and can be found on their website: 
+https://opg.optica.org/submit/templates/default.cfm
+
 ## License
 Latex source files are free to use and modify as templates under a modified MIT 
 License:
@@ -31,13 +35,16 @@ so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in all 
 copies or substantial portions of the Software.
 
-The text, original ideas, and original mathematical calculations contained in this 
+The original writings, ideas, and mathematical calculations contained in this 
 repository (the "Research Content") remain the intellectual property
 of the copyright holder, and may not be used for purposes other than learning
-and research.
+and research. The Research Content may be located within Latex source files, 
+and the copyright holder makes the distinction that the Research Content is 
+a separate entity than the Latex commands that format and stylize how the
+Research Content is presented (the "Code").
 
-Copying and/or plagiarism, as is outlined in The University of 
-Connecticut's student code 
+Copying and/or plagiarism of the Research Content, as is outlined in 
+The University of Connecticut's student code 
 "Responsibilities of Community Life: The Student Code" 
 (https://ugradresearch.uconn.edu/academic-integrity/),
 is not permitted under this license.
@@ -45,7 +52,10 @@ is not permitted under this license.
 No user is permitted to represent the Research Content
 contained in this repository as their own.
 
-Users of the Software are permitted to use the assets and Latex code contained
+Sections of the Code that come from the Optica Publishing Group
+remain the intellectual property of Optica Publishing Group.
+
+Users of the Software are permitted to use the assets and the Code contained
 in this repository for their personal and/or professional use subject to the
 constraints of the original copyright holders.
 
