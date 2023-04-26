@@ -1,0 +1,6 @@
+foci
+uniaxial
+birefringent
+phasor
+waveplate
+Electromagnetics

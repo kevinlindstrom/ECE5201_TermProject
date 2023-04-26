@@ -1,0 +1,37 @@
+\begin{thebibliography}{10}
+\newcommand{\enquote}[1]{``#1''}
+
+\bibitem{Balanis-2012}
+C.~A. Balanis, \emph{{Antenna Theory: Analysis and Design}} (Wiley-Interscience, 2005).
+
+\bibitem{griffithsEM}
+D.~J. Griffiths, \emph{Introduction to Electrodynamics} (Pearson, 2013).
+
+\bibitem{CWA_S}
+P.~Beyersdorf, \enquote{Coupled mode analysis,} \url{https://www.sjsu.edu/faculty/beyersdorf/Archive/Phys208F07/ch%204-EM%20waves%20in%20anisotropic%20media.pdf}.
+
+\bibitem{Wav_anis}
+F.~Ran, \enquote{{Waves in Anisotropic Media},} \url{https://courses.cit.cornell.edu/ece303/Lectures/lecture17.pdf} (2007).
+
+\bibitem{GHOSH199995}
+G.~Ghosh, \enquote{Dispersion-equation coefficients for the refractive index and birefringence of calcite and quartz crystals,} {\protect\JournalTitle{Optics Communications}} \textbf{163}, 95--102 (1999).
+
+\bibitem{BR_IM}
+A.~Lutich, M.~Danailov, s.~Volchek, V.~Yakovtseva, V.~Sokol, and S.~Gaponenko, \enquote{Birefringence of nanoporous alumina: Dependence on structure parameters,} {\protect\JournalTitle{Applied Physics B}} \textbf{84}, 327--331 (2006).
+
+\bibitem{OBI_phase}
+F.~Veiras and L.~Perez, \enquote{{Phase shift formulas in uniaxial media: an application to waveplates},} {\protect\JournalTitle{Optical Society of America}} \textbf{t} (2010).
+
+\bibitem{FTDT}
+A.~Taflove and S.~C. Hagness, \emph{{Computational Electrodynamics: The Finite-Difference Time-Domain Method}} (Artech House, 2000), 3rd ed.
+
+\bibitem{SLM_RCWA}
+P.-J. Chen, P.~Engel, A.~Mazur, C.~Ab{\'e}lard, and H.~P. Urbach, \enquote{{Finite element method for 3D optical modeling of liquid crystal on silicon spatial light modulator},} in \emph{Emerging Liquid Crystal Technologies XV,}  vol. 11303 L.-C. Chien and D.~J. Broer, eds., International Society for Optics and Photonics (SPIE, 2020), p. 1130308.
+
+\bibitem{newport}
+\enquote{Introduction to waveplates,} \url{https://www.newport.com/n/introduction-to-waveplates}.
+
+\bibitem{LC}
+J.~Li, \enquote{{Refractive Indices Of Liquid Crystals And Their Applications In Display And Photonic Devices },} Ph.D. thesis, University of Central Florida (2005).
+
+\end{thebibliography}

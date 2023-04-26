@@ -1,0 +1,25 @@
+\begin{thebibliography}{1}
+\newcommand{\enquote}[1]{``#1''}
+
+\bibitem{WP}
+Thorlabs, \url{https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=711}.
+
+\bibitem{griffithsEM}
+D.~J. Griffiths, \emph{Introduction to Electrodynamics} (Pearson, 2013).
+
+\bibitem{Balanis-2012}
+C.~A. Balanis, \emph{{Antenna Theory: Analysis and Design}} (Wiley-Interscience, 2005).
+
+\bibitem{CWA_S}
+P.~Beyersdorf, \enquote{Coupled mode analysis,} \url{https://www.sjsu.edu/faculty/beyersdorf/Archive/Phys208F07/ch%204-EM%20waves%20in%20anisotropic%20media.pdf}.
+
+\bibitem{Wav_anis}
+F.~Ran, \enquote{{Waves in Anisotropic Media},} \url{https://courses.cit.cornell.edu/ece303/Lectures/lecture17.pdf} (2007).
+
+\bibitem{GHOSH199995}
+G.~Ghosh, \enquote{Dispersion-equation coefficients for the refractive index and birefringence of calcite and quartz crystals,} {\protect\JournalTitle{Optics Communications}} \textbf{163}, 95--102 (1999).
+
+\bibitem{BR_IM}
+A.~Lutich, M.~Danailov, s.~Volchek, V.~Yakovtseva, V.~Sokol, and S.~Gaponenko, \enquote{Birefringence of nanoporous alumina: Dependence on structure parameters,} {\protect\JournalTitle{Applied Physics B}} \textbf{84}, 327--331 (2006).
+
+\end{thebibliography}

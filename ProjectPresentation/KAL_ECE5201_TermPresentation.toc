@@ -1,0 +1,14 @@
+\beamer@sectionintoc {1}{Theory}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{The Displacement Field}{3}{0}{1}
+\beamer@subsectionintoc {1}{2}{Anisotropic Materials}{5}{0}{1}
+\beamer@subsectionintoc {1}{3}{Uniaxial Media}{7}{0}{1}
+\beamer@sectionintoc {2}{Analytical Design}{9}{0}{2}
+\beamer@subsectionintoc {2}{1}{Design Diagram}{9}{0}{2}
+\beamer@subsectionintoc {2}{2}{Wave Equation}{10}{0}{2}
+\beamer@subsectionintoc {2}{3}{Half-Waveplate}{13}{0}{2}
+\beamer@subsectionintoc {2}{4}{Quarter-Waveplate}{20}{0}{2}
+\beamer@sectionintoc {3}{Numerical Design}{24}{0}{3}
+\beamer@subsectionintoc {3}{1}{3D-Plots}{24}{0}{3}
+\beamer@subsectionintoc {3}{2}{Figure of Merit}{27}{0}{3}
+\beamer@subsectionintoc {3}{3}{Quartz Waveplates}{30}{0}{3}
+\beamer@subsectionintoc {3}{4}{Birefringence}{31}{0}{3}

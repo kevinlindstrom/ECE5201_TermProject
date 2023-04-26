@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2023)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: KAL_ECE5201_TermPresentation.aux
+The style file: opticajnl.bst
+Database file #1: ECE5201_Citations.bib
+You've used 7 entries,
+            2613 wiz_defined-function locations,
+            631 strings with 5109 characters,
+and the built_in function-call counts, 1631 in all, are:
+= -- 97
+> -- 44
+< -- 0
++ -- 19
+- -- 12
+* -- 88
+:= -- 196
+add.period$ -- 11
+call.type$ -- 7
+change.case$ -- 4
+chr.to.int$ -- 0
+cite$ -- 7
+duplicate$ -- 165
+empty$ -- 199
+format.name$ -- 13
+if$ -- 367
+int.to.chr$ -- 0
+int.to.str$ -- 7
+missing$ -- 43
+newline$ -- 25
+num.names$ -- 7
+pop$ -- 73
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 38
+stack$ -- 0
+substring$ -- 43
+swap$ -- 92
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 9
+width$ -- 8
+write$ -- 56
