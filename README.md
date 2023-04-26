@@ -51,7 +51,8 @@ is not permitted under this license.
 
 No user is permitted to represent the Research Content
 contained in this repository as their own. Furthermore, the Research Content
-in this report is not permitted to be sold or distributed. 
+in this report is not permitted to be sold, distributed, published, or 
+sublicensed.
 
 Sections of the Code that come from the Optica Publishing Group
 remain the intellectual property of Optica Publishing Group.
